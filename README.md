@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**nadhybrandao/nadhybrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou a Nathália Brandão ✌🏼
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadhybrandao/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Nathália GitHub stats](https://github-readme-stats.vercel.app/api?username=nadhybrandao&show_icons=true&theme=dracula)
+
+## Tecnologias que estudo no dia a dia
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="Power BI" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
+    <img align="center" alt="Serviços AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div><br/>
+
+## Cursos
+- Cursando Bootcamp Python Data Analytics (Dio) – 2024
+- Intensivão Power BI (Hashtag Treinamentos) - 2024
+- Introdução à Análise de Dados – Microsoft Power BI (Fundação Bradesco) - 2024
+- Fundamento AWS (Escola da Nuvem) - 2023
+- Gestão de Infraestrutura de TI (FIAP) - 2023
+- Business Intelligence (FIAP) - 2023
+- Eu ProgrAmo (PrograMaria) - 2022
+- Algoritimos e Lógica de Programação (Udemy) – 2022
+- Liderança (SENAC) - 2019
+- Operações Administrativas (CIEE) - 2019
