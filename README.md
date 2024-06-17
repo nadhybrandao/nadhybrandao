@@ -15,7 +15,7 @@
 </div><br/>
 
 ## Cursos
-- Cursando Bootcamp Python Data Analytics (Dio) – 2024
+- Bootcamp Python Data Analytics (Dio) – 2024
 - Intensivão Power BI (Hashtag Treinamentos) - 2024
 - Introdução à Análise de Dados – Microsoft Power BI (Fundação Bradesco) - 2024
 - Fundamento AWS (Escola da Nuvem) - 2023
